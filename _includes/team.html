@@ -1,0 +1,25 @@
+
+    <!-- Portfolio Grid Section -->
+    <section id="team">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>The CC Team</h2>
+                    <hr class="star-primary">
+                </div>
+            </div>
+            <div class="row">
+                {% for member in site.team %}
+                    <div class="col-sm-4 portfolio-item"  align="center">
+                        <img src="img/team/{{ member.img }}" class="img-responsive" alt="{{member.name}}" title="{{member.name}}">
+                            <div class="caption">
+                                <div class="caption-content">
+                                    <h4>{{member.name}}</h4>
+                                    <h5>{{member.position}}</h5>
+                                </div>
+                            </div>
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+    </section>
