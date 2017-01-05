@@ -16,9 +16,9 @@ bing_verify:
 getStartedLink:
 
 team:
-  - name: "Khiem Thon-That"
+  - name: "Khiem Ton-That"
     position: "Founder"
-    img: "KheimThonThat.png"
+    img: "KhiemTonThat"
   - name: "Timo Morawitz"
     position: "Founder"
     img: "TimoMorawitz.png"
