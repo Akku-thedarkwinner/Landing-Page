@@ -17,7 +17,11 @@
                                     <i class="fa fa-search-plus fa-3x"></i>
                                 </div>
                             </div>
+                            {% if post.img%}
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
+                            {% else %}
+                            <i class="fa {{ post.icon }} fa-5x" alt="{{ post.alt }}"></i>
+                            {% endif%}
                             <h3>{{post.title}}</h3>
                             <p>{{post.description}}</p>
                         </a>
