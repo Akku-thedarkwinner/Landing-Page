@@ -83,6 +83,7 @@ header {
     text-align: center;
     color: #{{ site.color.background }};
     background: #{{ site.color.primary }};
+    background-image: url({{ site.color.headerBackgroundUrl }});
 }
 
 header .container {
