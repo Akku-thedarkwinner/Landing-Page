@@ -187,6 +187,10 @@ section.success {
     background: #{{ site.color.primary }};
 }
 
+section.success hr.star-primary:after {
+    background-color: #{{ site.color.primary }};
+}
+
 @media(max-width:767px) {
     section {
         padding: 75px 0;
@@ -210,9 +214,6 @@ section.success {
 
     text-align: center;
     color: #{{site.color.secondary}};
-}
-#portfolio p {
-
 }
 
 #portfolio .portfolio-item .portfolio-link .caption {
@@ -252,6 +253,7 @@ section.success {
 
 #portfolio * {
     z-index: 2;
+    color: #{{ site.color.secondary}};
 }
 
 @media(min-width:767px) {
