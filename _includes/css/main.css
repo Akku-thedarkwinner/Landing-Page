@@ -256,6 +256,10 @@ section.success hr.star-primary:after {
     color: #{{ site.color.secondary}};
 }
 
+#portfolio .fa-5x{
+    font-size: 10em;
+}
+
 @media(min-width:767px) {
     #portfolio .portfolio-item {
         margin: 0 0 30px;
