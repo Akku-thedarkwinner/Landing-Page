@@ -288,6 +288,7 @@ section.success hr.star-primary:after {
 }
 
 .floating-label-form-group input,
+.floating-label-form-group select,
 .floating-label-form-group textarea {
     z-index: 1;
     position: relative;
@@ -299,6 +300,8 @@ section.success hr.star-primary:after {
     background: 0 0;
     box-shadow: none!important;
     resize: none;
+
+    height: 44px;
 }
 
 .floating-label-form-group label {

@@ -12,6 +12,17 @@
 				<form  action={{ site.static_email }} method="POST" name="sentMessage" id="contactForm" novalidate>
 					<div class="row control-group">
 						<div class="form-group col-xs-12 floating-label-form-group controls">
+							<label>Participation</label>
+							<select name="participation" class="form-control" id="participation" required data-validation-required-message="Please enter how you want to participate.">
+								<option value="Coder">Coder</option>
+								<option value="Mentor">Mentor</option>
+								<option value="Partner">Partner</option>
+							</select>
+							<p class="help-block text-danger"></p>
+						</div>
+					</div>
+					<div class="row control-group">
+						<div class="form-group col-xs-12 floating-label-form-group controls">
 							<label>Name</label>
 							<input type="text" name="name" class="form-control" placeholder="Name" id="name" required data-validation-required-message="Please enter your name.">
 							<p class="help-block text-danger"></p>
