@@ -232,6 +232,7 @@ section.success hr.star-primary:after {
     -moz-transition: all ease .5s;
     transition: all ease .5s;
 
+    margin-top: -3px;
 }
 
 #portfolio .portfolio-item .portfolio-link .caption:hover {
@@ -251,6 +252,8 @@ section.success hr.star-primary:after {
 
 #portfolio .portfolio-item .portfolio-link .caption .caption-content i {
     margin-top: -12px;
+
+    color: white;
 }
 
 #portfolio .portfolio-item .portfolio-link .caption .caption-content h3,
