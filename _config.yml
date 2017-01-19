@@ -18,10 +18,13 @@ getStartedLink:
 team:
   - name: "Khiem Ton-That"
     position: "Founder"
-    img: "KhiemTonThat"
+    img: "KhiemTonThat.png"
   - name: "Timo Morawitz"
     position: "Founder"
     img: "TimoMorawitz.png"
+  - name: "Chrysa Bika"
+    position: "Public Relations"
+    img: "ChrysaBika.png"
 
 # Contact form:
 # - static : pass through formspree.io to validate email sending
