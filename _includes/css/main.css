@@ -277,6 +277,10 @@ section.success hr.star-primary:after {
     }
 }
 
+.img-team {
+    min-block-size: 300px;
+}
+
 .btn-outline {
     margin-top: 15px;
     border: solid 2px {{ site.color.primary }};
@@ -284,6 +288,10 @@ section.success hr.star-primary:after {
     color: #{{ site.color.primary }};
     background: 0 0;
     transition: all .3s ease-in-out;
+}
+
+.btn-team {
+    color: #{{ site.color.background }};
 }
 
 .btn-outline:hover,

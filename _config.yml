@@ -14,17 +14,27 @@ bing_verify:
 
 # About:
 getStartedLink:
+about:
+  - text: "We found from our personal experiences that the best way to learn a new technology or programming language is by working on practical projects. We bring to you a wide variety of projects mentored by experts that would help you in gaining the experience needed for your future. We plan to connect you to your future employers."
+  - text: "Whether you're a student looking to showcase your work, a professional looking to attract clients, or a graphic artist looking to share your projects, this is the perfect starting point! "
 
 team:
-  - name: "Khiem Ton-That"
-    position: "Founder"
-    img: "KhiemTonThat.png"
-  - name: "Timo Morawitz"
-    position: "Founder"
-    img: "TimoMorawitz.png"
-  - name: "Chrysa Bika"
-    position: "Public Relations"
-    img: "ChrysaBika.png"
+  - name: Khiem Ton-That
+    position: Founder
+    img: KhiemTonThat.png
+    social:
+    - title: github
+      url: https://github.com/gapsong
+  - name: Timo Morawitz
+    position: Founder
+    img: TimoMorawitz.png
+    social:
+    - title: github
+      url: https://github.com/Gott50
+  - name: Chrysa Bika
+    position: Public Relations
+    img:
+    social:
 
 # Contact form:
 # - static : pass through formspree.io to validate email sending

@@ -11,11 +11,24 @@
             <div class="row">
                 {% for member in site.team %}
                     <div class="col-sm-4 portfolio-item"  align="center">
-                        <img src="img/team/{{ member.img }}" class="img-responsive" alt="{{member.name}}" title="{{member.name}}">
+                        <img src="img/team/{{ member.img }}" class="img-responsive img-team" alt="No Picture here" title="{{member.name}}">
                             <div class="caption">
                                 <div class="caption-content">
                                     <h4>{{member.name}}</h4>
                                     <h5>{{member.position}}</h5>
+
+                                    <div class="footer-col">
+                                        <ul class="list-inline">
+                                            {% for network in member.social %}
+                                            <li>
+                                                <a href="{{ network.url }}" class="btn-social btn-outline btn-team">
+                                                    <i class="fa fa-fw fa-{{ network.title }}"></i>
+                                                </a>
+                                            </li>
+                                            {% endfor %}
+                                        </ul>
+                                    </div>
+
                                 </div>
                             </div>
                     </div>
