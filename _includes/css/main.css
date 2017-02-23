@@ -99,6 +99,8 @@ header img {
 
     border-width: 20px;
     border-style: solid;
+    
+    background: white;
 }
 
 header .intro-text .name {
