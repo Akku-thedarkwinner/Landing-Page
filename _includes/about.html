@@ -8,17 +8,13 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-4 col-lg-offset-2">
-                    <p>We found from our personal experiences that the best way to learn a new technology or programming
-                        language is by working on practical projects. We bring to you a wide variety of projects
-                        mentored by experts that would help you in gaining the experience needed for your future. We
-                        plan to connect you to your future employers.</p>
-                </div>
+                <div class="col-lg-2"> </div>
+                {% for desc in site.about %}
                 <div class="col-lg-4">
-                    <p>Whether you're a student looking to showcase your work, a professional looking to attract
-                        clients, or a graphic artist looking to share your projects, this is the perfect starting
-                        point! </p>
+                    <p>{{ desc.text }}</p>
                 </div>
+                {% endfor %}
+
                 {% if {site.getStartedLink}%}
                 <div class="col-lg-8 col-lg-offset-2 text-center">
                     <a href= {{site.getStartedLink}} class="btn btn-lg btn-outline">
