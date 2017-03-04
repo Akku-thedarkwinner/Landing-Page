@@ -5,10 +5,6 @@
     {% include nav.html %}
     {% include header.html %}
     {% include about.html %}
-    {% include team.html %}
-    {% include portfolio_grid.html %}
-    {% include other.html %}
-
 
     {% if site.contact == "static" %}
     {% include contact_static.html %}
@@ -17,6 +13,11 @@
     {% else %}
     {% include contact.html %}
     {% endif %}
+
+    {% include team.html %}
+    {% include portfolio_grid.html %}
+    {% include other.html %}
+
 
     {% include footer.html %}
     {% include modals.html %}
