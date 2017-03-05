@@ -449,7 +449,7 @@ footer .footer-below {
     margin: 30px 0;
 }
 
-.portfolio-modal .close-modal {
+ .close-modal {
     position: absolute;
     top: 25px;
     right: 25px;
@@ -459,11 +459,11 @@ footer .footer-below {
     cursor: pointer;
 }
 
-.portfolio-modal .close-modal:hover {
+ .close-modal:hover {
     opacity: .3;
 }
 
-.portfolio-modal .close-modal .lr {
+ .close-modal .lr {
     z-index: 1051;
     width: 1px;
     height: 75px;
@@ -474,7 +474,7 @@ footer .footer-below {
     transform: rotate(45deg);
 }
 
-.portfolio-modal .close-modal .lr .rl {
+ .close-modal .lr .rl {
     z-index: 1052;
     width: 1px;
     height: 75px;
