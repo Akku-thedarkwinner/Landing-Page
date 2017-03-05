@@ -206,6 +206,29 @@ section.success hr.star-primary:after {
     }
 }
 
+#about h2 {
+    margin-bottom: 10px;
+}
+
+#about .Coder {
+    color: #72C172
+}
+
+#about .Mentor {
+    color: #FF8745
+}
+
+#about .col-lg-4 {
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 40%;
+}
+
+#about .btn-lg {
+    margin-top: 50px;
+    font-size: 3em;
+}
+
 #portfolio .portfolio-item {
     right: 0;
     margin: 0 0 15px;
@@ -498,4 +521,5 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+
 

@@ -15,8 +15,10 @@ bing_verify:
 # About:
 getStartedLink:
 about:
-  - text: "We found from our personal experiences that the best way to learn a new technology or programming language is by working on practical projects. We bring to you a wide variety of projects mentored by experts that would help you in gaining the experience needed for your future. We plan to connect you to your future employers."
-  - text: "Whether you're a student looking to showcase your work, a professional looking to attract clients, or a graphic artist looking to share your projects, this is the perfect starting point! "
+  - title: Coder
+    text: "We found from our personal experiences that the best way to learn a new technology or programming language is by working on practical projects. We bring to you a wide variety of projects mentored by experts that would help you in gaining the experience needed for your future. We plan to connect you to your future employers."
+  - title: Mentor
+    text: "Whether you're a student looking to showcase your work, a professional looking to attract clients, or a graphic artist looking to share your projects, this is the perfect starting point! "
 
 team:
   - name: Khiem Ton-That

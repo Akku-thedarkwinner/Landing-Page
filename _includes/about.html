@@ -8,10 +8,11 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-2"> </div>
+                <!--<div class="col-lg-2"> </div>-->
                 {% for desc in site.about %}
                 <div class="col-lg-4">
-                    <p>{{ desc.text }}</p>
+                    <h2 class="text-center {{desc.title}}">{{desc.title}}</h2>
+                    <p class="text-center">{{ desc.text }}</p>
                 </div>
                 {% endfor %}
 
