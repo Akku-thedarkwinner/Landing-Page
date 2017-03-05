@@ -210,6 +210,10 @@ section.success hr.star-primary:after {
     margin-bottom: 10px;
 }
 
+#about p {
+    margin-bottom: 50px;
+}
+
 #about .Coder {
     color: #72C172
 }
@@ -221,11 +225,10 @@ section.success hr.star-primary:after {
 #about .col-lg-4 {
     margin-left: 5%;
     margin-right: 5%;
-    width: 40%;
+    min-width: 40%;
 }
 
 #about .btn-lg {
-    margin-top: 50px;
     font-size: 3em;
 }
 
