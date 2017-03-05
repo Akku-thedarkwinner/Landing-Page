@@ -359,10 +359,14 @@ section.success hr.star-primary:after {
 .floating-label-form-group-with-focus label {
     color: #{{ site.color.primary }};
 }
+.control-group .btn {
+    font-size: 1.5em;
+}
 
 form .row:first-child .floating-label-form-group {
     border-top: 1px solid #eee;
 }
+
 
 footer {
     color: #{{ site.color.background }};
@@ -494,3 +498,4 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+
