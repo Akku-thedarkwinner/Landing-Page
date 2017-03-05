@@ -214,20 +214,6 @@ section.success hr.star-primary:after {
     margin-bottom: 50px;
 }
 
-#about .Coder {
-    color: #72C172
-}
-
-#about .Mentor {
-    color: #FF8745
-}
-
-#about .col-lg-4 {
-    margin-left: 5%;
-    margin-right: 5%;
-    min-width: 40%;
-}
-
 #about .btn-lg {
     font-size: 3em;
 }
