@@ -216,6 +216,7 @@ section.success hr.star-primary:after {
 
 #about .btn-lg {
     font-size: 3em;
+    font-weight: 700;
 }
 
 #portfolio .portfolio-item {
