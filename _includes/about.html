@@ -10,7 +10,13 @@
             <div class="row">
                 {% for desc in site.about %}
                 <div class="col-lg-5 col-lg-offset-0 col-sm-10 col-sm-offset-1">
-                    <h2 class="text-center" style="{{desc.style}}">{{desc.title}}</h2>
+                    <h2 class="text-center" style="{{desc.style}}">
+                        <span class="fa-stack">
+                            <i class="fa fa-square fa-stack-2x"></i>
+                            <i class="fa fa-terminal fa-stack-1x fa-inverse"></i>
+                        </span>
+                        {{desc.title}}
+                    </h2>
                     <p class="text-center">{{ desc.text }}</p>
                 </div>
                 <div class="col-lg-2"> </div>
