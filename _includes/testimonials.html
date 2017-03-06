@@ -1,6 +1,5 @@
-
-    <!-- Portfolio Grid Section -->
-    <section class="success" id="other">
+<!-- Testimonials Grid Section -->
+<section class="success" id="testimonials">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
@@ -8,13 +7,14 @@
                     <hr class="star-light">
                 </div>
             </div>
+            {% for test in site.testimonials%}
             <div class="row">
-                <div class="col-lg-4 col-lg-offset-2">
-                    <p> In </p>
-                </div>
                 <div class="col-lg-4">
-                    <p> Progress </p>
+                    <h3>{{ test.autor }}</h3>
+                    <h3>{{ test.organisation }}</h3>
+                    <p> "{{ test.text }}" </p>
                 </div>
+                {% endfor %}
             </div>
         </div>
     </section>

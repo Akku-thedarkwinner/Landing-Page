@@ -46,6 +46,11 @@ team:
     - title: linkedin
       url:
 
+testimonials:
+  - autor: Patrick Müller
+    organisation: Burda
+    text: CodeConnect is a worthy Winner of the Jury Choice at <a href="http://burdabootcamp.de/summerschool"> Burda Summer School 2016</a>
+
 # Contact form:
 # - static : pass through formspree.io to validate email sending
 # - disqus : replace contact form by disqus thread
