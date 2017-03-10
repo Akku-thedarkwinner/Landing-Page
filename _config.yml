@@ -64,7 +64,8 @@ team:
 
 testimonials:
   - autor: Patrick Müller
-    organisation: Burda
+    position: Tech Lead at Burda Bootcamp
+    image: http://burdabootcamp.de/images/people/Team%20Bootcamp-3.jpg
     text: >
       CodeConnect winner of
       <a href="http://burdabootcamp.de/summerschool">

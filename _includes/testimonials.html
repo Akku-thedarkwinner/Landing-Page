@@ -8,10 +8,11 @@
                 </div>
             </div>
             {% for test in site.testimonials%}
-            <div class="row">
-                <div class="col-lg-4">
+            <div class="row text-center">
+                <div class="col-lg-6 col-lg-offset-3">
+                    <img class="profie" src={{ test.image }}>
                     <h3>{{ test.autor }}</h3>
-                    <h3>{{ test.organisation }}</h3>
+                    <b>{{ test.position }}</b>
                     <p> "{{ test.text }}" </p>
                 </div>
                 {% endfor %}
