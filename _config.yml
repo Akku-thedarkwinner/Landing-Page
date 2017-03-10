@@ -2,8 +2,12 @@
 title: Code Connect
 email: codeconnectteam@gmail.com
 url: https://code-connect.github.io/
-description: "Improve your Programming Skills by Working on Mentored Real World Projects"
-skills: "Improve your Programming Skills by Working on Mentored Real World Projects"
+description: >
+  Improve your Programming Skills by Working on
+  Mentored Real World Projects
+skills: >
+  Improve your Programming Skills by Working on
+  Mentored Real World Projects"
 meta_author: Code Connect #LastName FirstName
 
 # Google webmaster tools
@@ -16,10 +20,22 @@ bing_verify:
 getStartedLink:
 about:
   - title: Coder
-    text: "We found from our personal experiences that the best way to learn a new technology or programming language is by working on practical projects. We bring to you a wide variety of projects mentored by experts that would help you in gaining the experience needed for your future. We plan to connect you to your future employers."
+    text: >
+      We found from our personal experiences that the best
+      way to learn a new technology or programming language is by
+      working on practical projects. We bring to you a wide
+      variety of projects mentored by experts that would help you in
+      gaining the experience needed for your future. We plan to
+      connect you to your future employers.
     style: "color: #72C172;"
   - title: Mentor
-    text: "As full time a working Developer you may have encountered the Problem, that hobby Projects you once were very passionate about are just gathering dust on your Machine, because a lack of time. We offer you the opportunity to have Coders work on them for free. You only have to give feedback in order to improve future commits."
+    text: >
+      As full time a working Developer you may have
+      encountered the Problem, that hobby Projects you once were very
+      passionate about are just gathering dust on your Machine,
+      because a lack of time. We offer you the opportunity to have
+      Coders work on them for free. You only have to give feedback in
+      order to improve future commits.
     style: "color: #FF8745;"
 
 team:
@@ -49,7 +65,12 @@ team:
 testimonials:
   - autor: Patrick Müller
     organisation: Burda
-    text: CodeConnect is a worthy Winner of the Jury Choice at <a href="http://burdabootcamp.de/summerschool"> Burda Summer School 2016</a>
+    text: >
+      CodeConnect winner of
+      <a href="http://burdabootcamp.de/summerschool">
+      Burda Summer School</a>. By mentored projects the innovative
+      team of young students want to help professionals
+      and newcomer to the field of informatics alike.
 
 # Contact form:
 # - static : pass through formspree.io to validate email sending
@@ -91,7 +112,10 @@ address:
   - line: in Munich
 
 # Credits content
-credits: 'Winner of the Jury Choice at <a href="http://burdabootcamp.de/summerschool"> Burda Summer School</a>'
+credits: >
+  Winner of the Jury Choice at
+  <a href="http://burdabootcamp.de/summerschool">
+  Burda Summer School</a>
 
 # Build settings
 markdown: kramdown
