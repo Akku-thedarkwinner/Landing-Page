@@ -99,8 +99,9 @@ header {
     background-attachment: fixed;
     background-position-y: 12px;
 
-    max-height: 75vw;
     /*height: 100vh;*/
+    max-height: 75vw;
+    background-repeat: no-repeat;
 }
 
 header .container {
@@ -130,7 +131,7 @@ header .intro-text .name {
     font-size: 2em;
     font-weight: 700;
 
-    padding-top: 40%;
+    padding-top: 30%;
 }
 
 header .intro-text .skills {
