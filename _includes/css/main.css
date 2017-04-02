@@ -112,6 +112,7 @@ header .container {
     /*width: 75vw;*/
 }
 
+.logo,
 header img {
     display: block;
     margin: 0 auto 20px;
@@ -122,6 +123,10 @@ header img {
     border-style: solid;
     
     background: white;
+}
+.navbar-brand .logo {
+    border-width: 2px;
+    width: inherit;
 }
 
 header .intro-text .name {
@@ -181,6 +186,13 @@ header .intro-text .skills {
     .navbar-fixed-top.navbar-shrink .navbar-brand {
         font-size: 1.5em;
     }
+}
+
+.navbar img {
+    height: 60px;
+    margin-top: -25px;
+    margin-bottom: -25px;
+    display: inline;
 }
 
 .navbar {
