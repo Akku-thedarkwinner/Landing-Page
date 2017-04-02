@@ -124,9 +124,48 @@ header img {
     
     background: white;
 }
-.navbar-brand .logo {
+.navbar .logo {
     border-width: 2px;
-    width: inherit;
+    width: auto;
+}
+.logo-center {
+    display: block;
+    position: absolute;
+    margin: auto;
+    left: 0;
+    right: 0;
+    height: 100% !important;
+    color: transparent;
+    opacity: .5;
+}
+.navbar-brand .logo-center {
+    color: inherit;
+}
+
+.navbar .logo {
+    margin-top: -18.5px;
+}
+@media(min-width:768px) {
+    .navbar .logo {
+        height: 60px;
+        margin-top: -25px;
+        margin-bottom: -25px;
+        display: inline;
+    }
+
+    .navbar-brand .logo-center {
+        margin-top: -44px;
+    }
+
+    .navbar-shrink .logo-center {
+        height: 60px;
+        margin-top: -10px;
+        display: inline;
+    }
+
+    .navbar-shrink .navbar-brand .logo-center {
+        margin-top: -29px;
+    }
 }
 
 header .intro-text .name {
@@ -186,13 +225,6 @@ header .intro-text .skills {
     .navbar-fixed-top.navbar-shrink .navbar-brand {
         font-size: 1.5em;
     }
-}
-
-.navbar img {
-    height: 60px;
-    margin-top: -25px;
-    margin-bottom: -25px;
-    display: inline;
 }
 
 .navbar {
