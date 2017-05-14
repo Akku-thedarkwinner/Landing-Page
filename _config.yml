@@ -45,22 +45,22 @@ team:
     social:
     - title: github
       url: https://github.com/gapsong
-    - title: linkedin
-      url: https://github.com/gapsong
+    - title: envelope
+      url: mailto:codeconnectkhiem@gmail.com
   - name: Timo Morawitz
     position: Frontend
     img: Timo.jpg
     social:
     - title: github
       url: https://github.com/Gott50
-    - title: linkedin
-      url: https://github.com/Gott50
+    - title: envelope
+      url: mailto:codeconnecttimo@gmail.com
   - name: Chrysa Bika
     position: Public Relations
     img: Chrysa.jpg
     social:
-    - title: linkedin
-      url:
+    - title: envelope
+      url: mailto:CodeConnectChrysa@gmail.com
 
 testimonials:
   - autor: Patrick Müller
