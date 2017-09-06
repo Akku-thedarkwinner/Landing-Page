@@ -1,9 +1,14 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+<body id="page-top" class="index">
+{% include nav2.html %}
 
-<div class="container" id="content">
-
+<div class="container" id="content" style="margin-top: 110px;">
     {{ content }}
-
 </div>
+
+{% include footer.html %}
+{% include js.html %}
+</body>
+</html>
