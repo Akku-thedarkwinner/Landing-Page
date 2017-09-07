@@ -105,3 +105,19 @@ Gute Leistungen in Schule und Studium reichen heutzutage nicht mehr aus, um eine
 
 ### Wie schaffst Du es, Dein Konzept langfristig tragfähig (finanziell und personell) zu machen
 Mit der Zeit werden immer mehr OpenSource Projekte auf der Plattform veröffentlicht. So können die Mentees sich daran üben und die Mentoren erhalten fertige Projekte, für die sie selbst meist zu wenig Zeit haben. Die Unternehmen, die sich auf der Plattform registrieren, um z.B. Mitarbeiter zu finden, finanzieren durch ihre Jahresbeiträge die Weiterentwicklung von OpenSource Projekten und die Weitergabe von guten Programmierpraktiken. Das führt natürlich dazu, dass mehr Ideen tatsächlich umgesetzt und mehr qualifizierter Programmierer eingestellt werden können.
+
+## Generation D
+### Beschreibt Eure Idee oder Gründung.   
+Unsere Vision besteht darin, Studierenden und Neulingen anhand von Open Source Projekten die Chance zu geben, von erfahrenen Softwareentwicklern zu lernen. Durch die Arbeit an diesen Projekten und den Austausch zwischen Mentees und Mentoren wird zum einen das eigene Wissen erweitert und zum anderen werden die Projektideen der Mentoren in die Tat umgesetzt. Dadurch wird die Kommunikation und der Wissenstransfer zwischen Anfängern und Fortgeschrittenen Informatikern stark gefördert und verbessert. Mentees können ihren Mentoren jede fachspezifische Frage stellen, dadurch ihre Programmierkenntnisse verbessern und letztendlich guten Code für das Programm hervorbringen. Schließlich soll die exponentiell wachsende Zahl neuer Programmierer von der Expertise qualifizierter Softwareentwickler profitieren. 
+
+### Worin liegt der soziale Mehrwert Eurer Idee oder Gründung?
+Die Nutzung von Code Connect ist kostenlos, sowohl für Mentoren als auch Mentees.
+Dadurch wird ein freiwilliger Wissens- und Leistungstransfer mit langfristiger Wirkung gefördert, der für beide Seiten von Vorteil ist. 
+
+### Was macht Eure Gründung innovativ?
+Die Programmierer die sich bei Code Connect anmelden, werden anhand ihrer Erfahrungen in unterschiedliche Kategorien aufgeteilt. Dadurch können Unternehmen leichter qualifiziertes Personal finden. Zeit und Kosten bei der aufwendigen Suche und Validierung von Kompetenzen werden gespart.
+
+### Was macht Euch zu einem starken Team?
+Unsere Kernkompetenzen ergänzen sich (Frontend, Backend, Public Relations).
+Wir aber auch sind komplett committed und auch bereit uns schnell neues Wissen anzueignen, um Code Connect zu einem Erfolg zu machen.
+Wir sind drei Studierende mit vielfältigen Persönlichkeiten und somit auch unterschiedlicher Spezialisierung im Projekt. Dadurch wird jeder Kompetenzbereich in unserem StartUp perfekt abgedeckt. 
