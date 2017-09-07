@@ -54,3 +54,56 @@ Wir sehen uns als Gemeinnützige Organisation, da unsere Vision darin besteht, S
 
 ### Wurde z.B. die gUG bereits gegründet?
 Wir haben noch nicht gegründet, weil wir eine sehr junge Organisation sind und daher noch kaum Erfahrung bezüglich Organisation und Gründung sammeln konnten. Zudem liegt unsere Expertise hauptsächlich im Bereich der IT, weshalb wir derzeit noch auf der Suche nach Unterstützung in den Bereichen Betriebswirtschaft und Marketing sind.
+
+## Prototypefund
+### Welches Problem willst Du mit Deinem Projekt lösen?
+Heute stehen nicht allein gute Leistungen in Schule und Studium im Vordergrund für die Auswahl zur Einstellung in einem Unternehmen. Es zählen Berufserfahrung und anderweitig erbrachte Leistungen. Solche kann man sich z.B. durch das Mitwirken an OpenSource Projekten aneignen. Hier besteht nun die Schwierigkeit, derartige Projekte und einen passenden Mentor zu finden. Auf der anderen Seite gibt es viele OpenSource Projekte die nie fertiggestellt werden, da die Arbeitskraft fehlt und sie einen zu großen Zeitaufwand darstellen. Zudem stellt sich für viele Neueinsteiger die Herausforderung sich in die OpenSource Szene einzuarbeiten, aufgrund  der Komplexität und der veralteten Kommunikation.
+
+### Wer ist die Zielgruppe? Wie profitiert sie vom Projekt?
+Wir sind Code Connect, ein Startup bei Hubert Burda Media. Unser Mentor hat uns auf das Prototype Fund aufmerksam gemacht, da wir unseren Fokus auf Open Source Projekte gesetzt haben.
+Das Team besteht aktuell aus drei Studierenden, die im Bereich der Informatik sehr aktiv sind. 
+Wir arbeiten aktuell an der Programmierung der Plattform. Desweiteren haben wir eine kleine Community bestehend aus etwa 60 Studenten an der TUM aufgebaut und sind im Moment auf der Suche nach geeigneten Open Source Projekten, welche wir auf unsere Plattform anbieten können. 
+
+In nächster Zeit werden wir unsere Plattform vervollständigen. Außerdem weitet sich  unsere Community immer weiter aus und die ersten OpenSource Projekt Kooperationen mit Unternehmen eingehen. Desweiteren werden wir unsere Plattform komplett skalier
+- Plattform 
+- Community
+- Projekte 
+
+Zunächst werden wir die Plattform komplett skalierbar fertigstellen, um weiterhin auf uns aufmerksam zu machen und mehr Contributors anzuwerben. Der nächste Schritt bildet sich durch die Veröffentlichung von OpenSource Projekten auf der Plattform. Dies knüpft direkt an die Kooperation zwischen Mentees, Mentoren und Unternehmen. Schließlich soll die exponentiell wachsende Zahl neuer Programmierer von der Expertise qualifizierter Softwareentwickler profitieren. 
+
+### Welches Problem willst Du mit Deinem Projekt lösen?
+Heute stehen nicht allein gute Leistungen in Schule und Studium im Vordergrund für die Auswahl zur Einstellung in einem Unternehmen. Es zählen Berufserfahrung und anderweitig erbrachte Leistungen. Solche kann man sich z.B. durch das Mitwirken an OpenSource Projekten aneignen. Hier besteht nun die Schwierigkeit, derartige Projekte und einen passenden Mentor zu finden. Auf der anderen Seite gibt es viele OpenSource Projekte die nie fertiggestellt werden, da die Arbeitskraft fehlt und sie einen zu großen Zeitaufwand darstellen. Zudem stellt sich für viele Neueinsteiger die Herausforderung sich in die OpenSource Szene einzuarbeiten, aufgrund  der Komplexität und der veralteten Kommunikation.
+
+### Wie wird Dein Projekt dieses Problem lösen?
+Wir arbeiten an einem Open Source Projekt welches als Mentoring-Plattform für andere Open Source Projekte dienen soll. Unser Ziel ist es, den Einstieg für Programmierer mit grundlegenden Programmierkenntnissen zu erleichtern. Wir senken die Einstiegshürde in Open Source Projekte, indem wir die Kommunikation zwischen Open Source Experten und Einsteigern verbessern. Derzeit ist das Kommunikationsmedium leider meist E-Mail. Unsere Vision ist es Open Source Projekte zur Verfügung zu stellen, die mit expliziten Anforderungen beschrieben werden. Jede einzelne Aufgabe wird von einem Mentor begleitet, der den Einsteigern für Fragen über einen Chatroom zur Verfügung steht. So hat jeder Einsteiger immer einen erfahrenen Experten, welcher über diesen Themenbereich sehr gut bescheid weiß. Nachdem ein Einsteiger diese Aufgabe gelöst hat, erhält er Feedback und weiß somit, wie und wodurch er sich verbessern kann.
+
+### Wer ist die Zielgruppe? Wie profitiert sie vom Projekt?
+Einsteiger in die Informatik Szene erhalten Berufserfahrung und können durch den Austausch mit erfahrenen Informatikern ihre Programmierkenntnisse verbessern. 
+Mentoren profitieren von der Vollendung ihrer OpenSource Projekte an denen sie aufgrund von Zeitmangel nicht weiter arbeiten können.
+Unternehmen können sich über unsere Plattform Zugriff auf die Datenbank der Programmierer verschaffen und somit potentielle Talente und qualifiziertes Personal einstellen.
+
+### Hast Du schon an der Idee gearbeitet? Wenn ja, beschreibe kurz den aktuellen Stand und erkläre die Neuerung.
+Wir sind Code Connect, ein Startup bei Hubert Burda Media. Unser Mentor hat uns auf das Prototype Fund aufmerksam gemacht, da wir unseren Fokus auf Open Source Projekte gesetzt haben.
+Das Team besteht aktuell aus drei Studierenden, die im Bereich der Informatik sehr aktiv sind. 
+Wir arbeiten aktuell an der Programmierung der Plattform. Desweiteren haben wir eine kleine Community bestehend aus etwa 60 Studenten an der TUM aufgebaut und sind im Moment auf der Suche nach geeigneten Open Source Projekten, welche wir auf unsere Plattform anbieten können.
+
+### Skizziere kurz die wichtigsten Meilensteine, die Du/Ihr im Förderzeitraum umsetzen willst/wollt.
+CodeConnect bildet eine Plattform auf der ein Mentor sein OpenSource Projekt
+veröffentlicht, welches sich ein Mentee auswählt um mitzuhelfen. Dieser erwirbt kostenlos neues Wissen und baut seine Fähigkeiten aus. Der Mentor hat mit geringerem Zeit- und Kostenaufwand ein fertiges Programm und verbessert seine soft skills.
+
+Wir arbeiten an einer Plattform für OpenSource Projekte, um Menschen mit grundlegenden Programmierkenntnissen den Einstieg in die OpenSource Welt zu erleichtern. Mentees arbeiten gemeinsam an den Projekten der Mentoren und erhalten dabei Feedback.  
+
+### Bitte beschreibe kurz das gesellschaftliche Problem aus dem Bereich Bildung und Integration, dem Du Dich mit Deinem Start-up stellst. Was muss sich Deiner Meinung nach verändern
+Die Kommunikation zwischen erfahrenen Programmierern und Neulingen aus allen sozialen Schichten muss verbessert werden. Die Nutzung von Code Connect ist kostenlos, sowohl für Mentoren als auch Mentees. Somit können auch benachteiligte Menschen einem sozialen Aufstieg nachgehen und ihre Kenntnisse im Bereich der Informatik erweitern. 
+Durch die Nutzung von CodeConnect wird ein freiwilliger Wissens- und Leistungstransfer mit langfristiger Wirkung gefördert. Der Fokus liegt darauf, voneinander zu lernen, sich gegenseitig zu unterstützen und Berufserfahrungen zu sammeln. 
+
+### Bitte beschreibe kurz den (geplanten) Lösungsansatz und wie Du damit Deine gewünschte Wirkung in der Gesellschaft erzielst. Bitte stelle auch kurz dar, mit welchen Aktivitäten Du die geplante Wirkung erreichen möchtest
+Mit Hilfe der Plattform die wir zur Zeit entwickeln, bieten wir unseren Usern die Möglichkeit Kontakte zu erfahrenen Informatikern zu knüpfen und von diesen zu lernen. Sobald einige Projekte auf der Plattform veröffentlicht sind, können die Mentees sofort daran arbeiten. Durch die Möglichkeit, ständig Fragen stellen zu können und Tipps von Mentoren zu erhalten, können die Neulinge viel schneller lernen und sich besser zuRechtfinden. Der Anteil an qualifizierten Informatikern wird erheblich steigen. 
+
+Mit dem Fördergeld werden wir in erster Linie unsere Serverkosten decken und viel Marketing machen, so dass mehr Einsteiger in der Informatikbranche davon mitbekommen und von CodeConnect profitieren können. Zudem wollen wir die Fördersumme nutzen, um Vollzeit an unserem Produkt weiter zu arbeiten. 
+
+### Was motiviert Dich zu Deinem Vorhaben, Persönlicher Bezug/ Betroffenheit/ Schlüsselerlebnis
+Gute Leistungen in Schule und Studium reichen heutzutage nicht mehr aus, um einen leichten Berufseinstieg zu haben. Berufserfahrung sind wichtiger denn je. CodeConnect bietet die Möglichkeit, durch Arbeit an OpenSource Projekten seine Fachkenntnisse auszubauen und somit Berufserfahrungen im Programmieren zu sammeln. Außerdem möchten wir Neulingen in der Informatik die Chance bieten, schon relativ früh an OpenSource Projekten mitzuwirken, da wir selber gemerkt haben, wie schwierig es ist an solche Projekte ran zu kommen und wie stark man von erfahrenen Programmierern profitieren kann.
+
+### Wie schaffst Du es, Dein Konzept langfristig tragfähig (finanziell und personell) zu machen
+Mit der Zeit werden immer mehr OpenSource Projekte auf der Plattform veröffentlicht. So können die Mentees sich daran üben und die Mentoren erhalten fertige Projekte, für die sie selbst meist zu wenig Zeit haben. Die Unternehmen, die sich auf der Plattform registrieren, um z.B. Mitarbeiter zu finden, finanzieren durch ihre Jahresbeiträge die Weiterentwicklung von OpenSource Projekten und die Weitergabe von guten Programmierpraktiken. Das führt natürlich dazu, dass mehr Ideen tatsächlich umgesetzt und mehr qualifizierter Programmierer eingestellt werden können.
