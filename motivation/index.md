@@ -1,0 +1,11 @@
+---
+layout: single
+
+---
+
+# Motivationsschreiben
+
+Heutzutage stehen nicht allein gute Leistungen in Schule und Studium im Vordergrund für die Auswahl zur Einstellung in einem Unternehmen. Viel mehr zählen Berufserfahrung und anderweitig erbrachte Leistungen. Solche kann man sich z.B. durch das Mitwirken an Open Source Projekten aneignen. Hier besteht nun die Schwierigkeit, derartige Projekte und einen passenden Mentor zu finden. Genau hier kommt Code Connect ins Spiel. 
+Unsere Vision besteht darin, Studierenden und Neulingen anhand von Open Source Projekten die Chance zu geben, von erfahrenen Softwareentwicklern zu lernen. Durch die Arbeit an diesen Projekten und den Austausch zwischen Mentees und Mentoren wird zum einen das eigene Wissen erweitert und zum anderen werden die Projektideen der Mentoren in die Tat umgesetzt. Dadurch wird die Kommunikation und der Wissenstransfer zwischen Anfängern und Fortgeschrittenen Informatikern stark gefördert und verbessert. Mentees können ihren Mentoren jede fachspezifische Frage stellen, dadurch ihre Programmierkenntnisse verbessern und letztendlich guten Code für das Programm hervorbringen. Schließlich soll die exponentiell wachsende Zahl neuer Programmierer von der Expertise qualifizierter Softwareentwickler profitieren.  
+Die Zusammenarbeit zwischen Code Connect und Generation D, bildet einen sehr wichtigen Aspekt für uns. Wir möchten auf der Suche nach neuen innovativen und kreativen Ideen behilflich sein und die soziale Gesellschaft durch unser Projekt unterstützen. Außerdem sehen wir, als Informatikstudenten, große Verantwortung darin neue Ideen in der Informatik Szene zu entwickeln und zu fördern. Wir betrachten Probleme aus unterschiedlichen Perspektiven und versuchen anderen Neulingen den Einstieg in die Informatik und in den späteren Beruf zu erleichtern. 
+Zunächst stehen für uns der Kontakt zu Mentoren, sowie die Teilnahme an Coachings und Workshops mehr im Vordergrund, als der finanzielle Aspekt. Der Aufbau einer hilfsbereiten und wissbegierigen Community aus Mentoren und Mentees hat höchste Priorität für unser Team.  
