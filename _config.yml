@@ -17,7 +17,7 @@ google_verify:
 bing_verify:
 
 # About:
-getStartedLink:
+getStartedLink: http://code-connect.herokuapp.com/
 about:
   - title: Coder
     text: >
